@@ -14,5 +14,13 @@
             "email": "zechnider@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "alkauni/first-package": "dev-main"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/hanifalkauni/first-package"
+        }
+    ]
 }
