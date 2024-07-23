@@ -1,6 +1,6 @@
 <?php
 // src/HelloWorldServiceProvider.php
-namespace YourVendor\HelloWorld;
+namespace Alkauni\HelloWorld;
 
 use Illuminate\Support\ServiceProvider;
 
