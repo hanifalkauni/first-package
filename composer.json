@@ -22,5 +22,12 @@
             "type": "vcs",
             "url": "https://github.com/hanifalkauni/first-package"
         }
-    ]
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Alkauni\\FirstPackage\\FirstPackageServiceProvider"
+            ]
+        }
+    }
 }
