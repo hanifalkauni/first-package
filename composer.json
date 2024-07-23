@@ -17,7 +17,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Alkauni\\FirstPackage\\FirstPackageServiceProvider"
+                "Alkauni\\FirstPackage\\HelloWorldServiceProvider"
             ]
         }
     }
